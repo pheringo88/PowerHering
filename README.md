@@ -21,18 +21,18 @@
 
 Bem vindo ao meu portfolio de projetos de Business Intelligence & Analytics! Aqui você vai encontrar uma coleção de projetos e dashboars que desenvolvi durante minha carreira e meus aprendizados. 
 
-## About Me
+## Sobre Mim
 Sou formado em Engenharia Eletrônica e também em Administração, mas fui encontrar minha paixão trabalhando com inteligência de mercado. Tenho grande conhecimento em Power BI, Excel e SQL. Tenho experiência em transformar dado puro em insights valiosos, crianto dashboards interativos, sempre buscando ajudar no processo decisório das empresas.
 
 ---
 ## [Project 1: Dashboard de Vendas](https://vendasdash)
 
 Dashboard Simples de Vendas
-## Preview
+## Visualizar
 
 ![sales](https://github.com/tushar2704/tushar2704-GIFs/blob/main/salesd1.gif)
 
-## [Project 2: Dashboard de Margem de Contribuição](https://macodash)
+## [Projeto 2: Dashboard de Margem de Contribuição](https://macodash)
 Dashboard de acompanhamento de faturamento,investimento, despesas, frete, custos, buscando uma visão histórica e em tempo real da Margem de Contribuição da empresa. 
 ###### Deployment [![PBI Dash](https://macodash)
 
@@ -41,7 +41,7 @@ Dashboard de acompanhamento de faturamento,investimento, despesas, frete, custos
 
 
 
-## [Project 3: People Analytics Dashboards](https://PADash)
+## [Projeto 3: People Analytics Dashboards](https://PADash)
 
 Dashboard de Turn Over e acompanhmento de colaboradores
 ### Preview
@@ -51,7 +51,7 @@ Dashboard de Turn Over e acompanhmento de colaboradores
 
 
 
-## Contact Information
+## Informações para Contato
 
 Caso tenha dúvidas, feedback, ou tenha alguma oportunidade de colaboração, por favor sina-se a vontade para entrar em cotato. Você pode me contactar pelo email [pedropote@gmail.com](mailto:pedropote@gmail.com) ou pelo meu LinkedIn [Pedro Heringer Dias](https://www.linkedin.com/in/yourname).
 
@@ -59,7 +59,7 @@ Obrigado pela visita ao meu Portfolio! Espero que tenha encontrado algo do seu i
 
 
 
-## Author
+## Autor
 - [<ins><b>©2024 Pedro Heringer Dias. Direitos reservados</b></ins>]([https://www.tushar-aggarwal.com/](https://www.linkedin.com/in/yourname))
 
 
