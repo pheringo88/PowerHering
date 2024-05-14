@@ -22,7 +22,7 @@
 Bem vindo ao meu portfolio de projetos de Business Intelligence & Analytics! Aqui você vai encontrar uma coleção de projetos e dashboars que desenvolvi durante minha carreira e meus aprendizados. 
 
 ## Sobre Mim
-Sou formado em Engenharia Eletrônica e também em Administração, mas fui encontrar minha paixão trabalhando com inteligência de mercado. Tenho grande conhecimento em Power BI, Excel e SQL. Tenho experiência em transformar dado puro em insights valiosos, crianto dashboards interativos, sempre buscando ajudar no processo decisório das empresas.
+Sou formado em Engenharia Eletrônica e também em Administração, mas fui encontrar minha paixão trabalhando com inteligência de mercado. Tenho grande conhecimento em Power BI, Excel e SQL. Tenho experiência tranformando dado bruto de diferentes fontes em dashboards dinâmicos e ágeis permitindo-se criar insights valiosos, sempre buscando ajudar no processo decisório das empresas.
 
 ---
 ## [Project 1: Dashboard de Vendas](https://vendasdash)
